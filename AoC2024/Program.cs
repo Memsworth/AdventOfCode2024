@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AoC2024;
+using AoCHelper;
+
+await Solver.SolveAll();
